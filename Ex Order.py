@@ -11,20 +11,16 @@ if User == "deasho" and Pass == "26072545":
         Many = int(input("Vegetable : "))
         Price = 50
         print(Many * Price)
-        print("Thank you <3")
     elif Menu == 2:
          Many = int(input("Water : "))
          Price = 10
          print(Many * Price)
-         print("Thank you <3")
     elif Menu == 3:
          Many = int(input("Banana : "))
          Price = 20
-         print(Many * Price)
-         print("Thank you <3")
     elif Menu == 4:
          Many = int(input("Chocolate : "))
          Price = 100
          print(Many * Price)
-         print("Thank you <3")
+print("Thank you <3")
 
